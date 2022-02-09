@@ -10,7 +10,7 @@ main {
 
 .grid-container {
   display: grid;
-  grid-template-columns: 375px;
+  
 }
 
 .order-summary-logo {
