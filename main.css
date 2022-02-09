@@ -1,4 +1,4 @@
-.container {
+main {
   background: url(./images/pattern-background-desktop.svg);
   background-color: hsl(225, 100%, 94%);
   min-height: calc(100vh - 50px);
@@ -10,6 +10,7 @@
 
 .grid-container {
   display: grid;
+  grid-template-columns: 375px;
 }
 
 .order-summary-logo {
