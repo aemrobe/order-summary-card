@@ -36,7 +36,7 @@ file path for my desktop design image file: my design screenshot/desktop view
 file path for my mobile design image file:my design screenshot//mobile view
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://aemrobe.github.io/order-summary.github.io/)
 
 ## My process
 
