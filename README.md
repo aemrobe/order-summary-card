@@ -35,8 +35,8 @@ Users should be able to:
 file path for my desktop design image file: my design screenshot/desktop view
 file path for my mobile design image file:my design screenshot//mobile view
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://aemrobe.github.io/order-summary.github.io/)
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-card-using-css-grid-and-flexbox-vNS1JCthZ
+- Live Site URL: https://aemrobe.github.io/order-summary.github.io/
 
 ## My process
 
