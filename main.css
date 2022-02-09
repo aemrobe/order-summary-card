@@ -112,6 +112,11 @@
     background-size: contain;
     background-color: hsl(225, 100%, 94%);
   }
+  
+  .grid-container
+  position: relative;
+  right: 5px;
+  }
 
   .order-summary-logo {
     width: 300px;
